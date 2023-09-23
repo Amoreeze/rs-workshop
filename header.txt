@@ -1,3 +1,0 @@
-some text for header
-Changes from <first>
-changes from master - new changes!!!`r
